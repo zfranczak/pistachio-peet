@@ -1,0 +1,44 @@
+Draft Documentation
+By Zachary Franczak
+CS42 - Final Project
+
+
+|--DATE--|--WHAT WAS COMPLETED--|
+_________________________________________________________________________________________
+|-4/27---|Created Prototype of physics engine|
+|-4/29---|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/1----|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/2----|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/3----|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/6----|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/7----|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/10---|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/12---|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/13---|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/14---|Tried to fix the bridge between matter.js and phaser for slingshot
+          added start scene, game scene, and game over scene|
+|-5/16---|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/17---|Tried to fix the bridge between matter.js and phaser for slingshot|
+|-5/18---|FIXED! the bridge between matter.js and phaser for slingshot.  
+          Added "Super pistachio (2nd slingshot).  
+          Added music.|
+|-5/19---|Added art for bottles. 
+          Tried to add art to slingshots.|
+|-5/20---|Tried to fix the bridge between matter.js and phaser for  
+          slingshot. 
+          Tried to add art to slingshots.|
+|-5/21---|Added art for background & shelves.  
+          Made scoring system work. 
+          Tried to add art to slingshots. 
+          Adjusted positions of game objects. 
+          Added win condition.|
+|-5/22---|Attempted to replace circles with images.
+          Updated all fonts.
+          Added Slingshot Images.
+          Replaced Art for Bottles.
+          Fixed orientation of game over screen|
+|-5/23---|Attempted to add images to circles and was unsuccessful without
+          breaking the physics.
+          Adjusted sizes of bottles.
+          Final Print|
+
